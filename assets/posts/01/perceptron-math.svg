@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000px"
+   height="300px"
+   viewBox="0 0 1000 300"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="perceptron-math.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1242"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="396.6596"
+     inkscape:cy="346.06526"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="1366"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1237">
+    <rect
+       x="354.32983"
+       y="118.09656"
+       width="84.201523"
+       height="53.678047"
+       id="rect56868" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:103.85px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.59626"
+       x="47.690033"
+       y="173.29002"
+       id="text15370"><tspan
+         sodipodi:role="line"
+         id="tspan15368"
+         x="47.690033"
+         y="173.29002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052;stroke-width:2.59626">Y = f ( </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:265.647px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.64118"
+       x="319.25873"
+       y="242.93066"
+       id="text34712"><tspan
+         sodipodi:role="line"
+         id="tspan34710"
+         x="319.25873"
+         y="242.93066"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052;stroke-width:6.64118">Σ</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text56866"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect56868);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.6721999,0,0,1.6721999,-204.1903,-208.78807)"><tspan
+         x="354.33008"
+         y="153.48633"
+         id="tspan1453"><tspan
+           style="font-family:P052;-inkscape-font-specification:P052"
+           id="tspan1451">n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="367.87231"
+       y="279.69391"
+       id="text62564"><tspan
+         sodipodi:role="line"
+         id="tspan62562"
+         x="367.87231"
+         y="279.69391"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052">i = 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:102.776px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56941"
+       x="482.75977"
+       y="183.31297"
+       id="text68238"><tspan
+         sodipodi:role="line"
+         id="tspan68236"
+         x="482.75977"
+         y="183.31297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052;stroke-width:2.56941">( Wi * Xi ) )</tspan></text>
+  </g>
+</svg>
