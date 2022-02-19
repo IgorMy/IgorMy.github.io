@@ -7,11 +7,13 @@ categories: Red Neuronal
 
 <img class='img-half-width-right' src="{{ '/assets/posts/01/neuronal-network.png' | absolute_url }}"/>
 
-Siempre que escuchamos el término **Red Neuronal** nos imaginamos una especie de sistema complejo en forma de grafo de nodos interconectados. 
+Cuando escuchamos el término **Red Neuronal** comúnmente pensamos en un complejo sistema biológico formado por neuronas. Pero, aquellos interesados en la ciencia de la computación seguro que han oído hablar de un complejo sistema en forma de grafo formado por nodos que sirve para resolver los problemas más complejos.
 
-Pero, nunca nos preguntamos que son esos nodos, o porque están conectados, o como están conectados, etc. 
+Este sistema, en la ciencia de la computación, también se denomina **Red Neuronal**. Principalmente, porque nació para intentar reproducir el funcionamiento del cerebro humano en un ordenador.
 
-Este post es el primero de una serié de posts de redes neuronales en los cuales trataré de responder a todas estas preguntas. También, me gustaría puntualizar que para entender correctamente su contenido, es necesario que el lector tenga nociones básicas en `Python` y `Matemáticas`.
+Este post es el primero de una serié de posts
+ de redes neuronales en los cuales veremos su composición, tipos e  
+incluso veremos como evolucionaron en el campo del procesamiento de imágenes. También, me gustaría puntualizar que para entender correctamente su contenido, es necesario que el lector tenga nociones básicas en `Python` y `Matemáticas`.
 
 <hr>
 
